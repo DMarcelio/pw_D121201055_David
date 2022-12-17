@@ -31,3 +31,6 @@ JS
 ![image](https://user-images.githubusercontent.com/112327587/208242001-15efcbe9-5994-4d53-9fd9-a6fe4c5688f8.png)
 ![image](https://user-images.githubusercontent.com/112327587/208242013-7a09a024-39be-4405-80fd-2464c0c14ee5.png)
 ![image](https://user-images.githubusercontent.com/112327587/208241979-d3e1d378-44f0-465f-976e-5343191d0792.png)
+
+## Contoh Tabel
+![image](https://user-images.githubusercontent.com/112327587/208243653-59edf84a-547d-4e32-a1d9-f82b985112b6.png)
